@@ -6,6 +6,6 @@
 
 В иных случаях - откройте issue или discussie в оригинальных репозиториях перечисленных ниже или воспользуйтесь форумов
 
-**[Zapret Official Rep](https://github.com/bol-van/zapret)** - официальный репозиторий Бол-ВаНа
-**[Zapret Windows Bundle Official Rep](https://github.com/bol-van/zapret-win-bundle)** - раньше находился в оригинальном репозитории, но по решению болвана переведен в отдельный репозиторий 
-**[NTC.Party Forum](https://ntc.party/)** - форум на различные темы. Полезный ресурс. В частности - тут присутвует ветки Zapret`а, GDPy и прочего софта, связанного с ограничениями РНК
+**[Zapret Official Rep](https://github.com/bol-van/zapret)** - официальный репозиторий Бол-ВаНа  
+**[Zapret Windows Bundle Official Rep](https://github.com/bol-van/zapret-win-bundle)** - раньше находился в оригинальном репозитории, но по решению болвана переведен в отдельный репозиторий  
+**[NTC.Party Forum](https://ntc.party/)** - форум на различные темы. Полезный ресурс. В частности - тут присутвует ветки Zapret`а, GDPy и прочего софта, связанного с ограничениями РНК  
